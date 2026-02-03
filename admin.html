@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin | DICAM</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+<script>
+if (!localStorage.getItem("admin-auth")) {
+  window.location.href = "index.html";
+}
+</script>
+
+<main class="main">
+    <h2 class="titulo-principal">Panel <span>Admin</span></h2>
+
+    <!-- DASHBOARD -->
+    <section id="stats"></section>
+
+    <!-- CRUD PRODUCTOS -->
+    <section class="admin-box">
+        <h3>Agregar producto</h3>
+
+        <form id="product-form">
+            <input placeholder="Título" id="titulo" required>
+            <input type="number" placeholder="Precio" id="precio" required>
+            <input placeholder="Imagen URL" id="imagen" required>
+            <input placeholder="Categoría" id="categoria" required>
+            <button>Guardar</button>
+        </form>
+    </section>
+
+    <section class="admin-box">
+        <h3>Productos</h3>
+        <div id="products"></div>
+    </section>
+
+    <!-- PEDIDOS -->
+    <section id="orders"></section>
+</main>
+
+<h2>Pedidos recibidos</h2>
+<div id="admin-pedidos"></div>
+
+<script>
+const pedidos = JSON.parse(localStorage.getItem("pedidos")) || [];
+const cont = document.querySelector("#admin-pedidos");
+
+if (pedidos.length === 0) {
+  cont.innerHTML = "<p>No hay pedidos aún</p>";
+}
+
+pedidos.forEach(p => {
+  cont.innerHTML += `
+    <div style="border:1px solid #ddd;padding:1rem;margin-bottom:1rem">
+      <strong>${p.nombre}</strong><br>
+      Tel: ${p.telefono}<br>
+      Dirección: ${p.direccion}<br>
+      Total: $${p.total}<br>
+      Fecha: ${p.fecha}
+    </div>
+  `;
+});
+</script>
+
+
+<script src="./js/admin.js"></script>
+</body>
+</html>
+
+

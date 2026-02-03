@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<meta charset="UTF-8">
+<title>DICAM | Carrito</title>
+<a href="index.html" class="btn-volver">
+    ← Seguir comprando
+</a>
+<link rel="stylesheet" href="./css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+
+<body>
+<main class="main">
+<h2 class="titulo-principal">𝐓𝐔 <span>𝐂𝐀𝐑𝐑𝐈𝐓𝐎</span></h2>
+
+<p id="carrito-vacio" class="carrito-vacio-texto">
+    Aún no has agregado productos a tu carrito.
+    <br>
+    Explora nuestra colección y encuentra tu estilo.
+</p>
+
+
+<div id="carrito-productos" class="disabled"></div>
+
+<div id="carrito-acciones" class="disabled">
+<p>Total: <span id="total">$0</span></p>
+<button id="carrito-acciones-vaciar">Vaciar</button>
+<a href="checkout.html" class="btn-principal" id="btn-finalizar">
+Finalizar compra
+</a>
+
+</div>
+
+
+
+<div id="carrito-comprado" class="disabled">
+<p> !Gracias por tu compra!🤗</p>
+</div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="./js/carrito.js"></script>
+<script src="./js/contador.js"></script>
+
+<footer style="text-align:center;margin:2rem 0;color:#777">
+  <a href="legal.html">Aviso legal</a>
+</footer>
+
+
+</body>
+</html>
+
+

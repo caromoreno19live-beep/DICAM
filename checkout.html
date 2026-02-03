@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<meta charset="UTF-8">
+<title>DICAM | Finalizar compra</title>
+
+<link rel="stylesheet" href="./css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+
+<body>
+
+<main class="main checkout">
+
+<h2 class="titulo-principal">Finalizar <span>Compra</span></h2>
+
+<div class="checkout-contenedor">
+
+<!-- RESUMEN -->
+<div class="checkout-resumen">
+<h3>Resumen del pedido</h3>
+<div id="checkout-productos"></div>
+<p class="checkout-total">
+Total: <span id="checkout-total">$0</span>
+</p>
+</div>
+
+<!-- DATOS -->
+<div class="checkout-datos">
+<h3>Datos del cliente</h3>
+
+<form id="checkout-form">
+<input type="text" id="nombre" placeholder="Nombre completo" required>
+<input type="tel" id="telefono" placeholder="Teléfono" required>
+<textarea id="direccion" placeholder="Dirección de entrega" required></textarea>
+
+<button type="submit" class="btn-principal">
+Confirmar por WhatsApp
+</button>
+</form>
+
+</div>
+
+</div>
+
+</main>
+
+<script src="./js/checkout-whatsapp.js"></script>
+
+<button id="btn-mercadopago" class="btn-principal">
+Pagar con MercadoPago
+</button>
+
+<script src="https://sdk.mercadopago.com/js/v2"></script>
+<script src="./js/pago-mp-frontend.js"></script>
+
+</body>
+</html>

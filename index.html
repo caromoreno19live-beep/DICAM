@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DICAM | Moda con identidad</title>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+<link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+<a
+  href="https://wa.me/573168149809?text=Hola%20DICAM,%20estoy%20interesado%20en%20sus%20productos"
+  class="whatsapp-float"
+  target="_blank"
+  aria-label="WhatsApp DICAM"
+>
+  <i class="bi bi-whatsapp"></i>
+</a>
+
+<div class="wrapper">
+
+<header class="header-mobile">
+<h1 class="logo">DICAM</h1>
+<button class="open-menu" id="open-menu"><i class="bi bi-list"></i></button>
+</header>
+
+<aside class="aside">
+<header>
+        <h1 class="logo"><img src="img/logo.png" loading="lazy" alt=""></h1>
+    </header>
+<button class="close-menu" id="close-menu">
+    <i class="bi bi-x-lg"></i>
+</button>
+
+    <nav>
+        <ul class="menu">
+        
+            <li>
+                <button id="todos" class="boton-menu boton-categoria active">
+                    Todos los productos
+                </button>
+            </li>
+            <li>
+             <button id="gorras" class="boton-menu boton-categoria">
+               Gorras
+             </button>
+            </li>
+            <li>
+                <button id="abrigos" class="boton-menu boton-categoria">
+                    Abrigos
+                </button>
+            </li>
+            <li>
+                <button id="camisetas" class="boton-menu boton-categoria">
+                    Camisetas
+                </button>
+            </li>
+            <li>
+                <button id="pantalones" class="boton-menu boton-categoria">
+                    Pantalones
+                </button>
+            </li>
+
+            <li>
+                <a href="./carrito.html" class="boton-menu boton-carrito">
+                    <i class="bi bi-cart-fill"></i>
+                    Carrito <span id="numerito" class="numerito">0</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <footer>
+        <p class="texto-footer">© 𝟚𝟘𝟚𝟞 𝔻𝕀ℂ𝔸𝕄 — 𝕍𝕚𝕤𝕥𝕖 𝕥𝕦 𝕒𝕔𝕥𝕚𝕥𝕦𝕕</p>
+    </footer>
+
+</aside>
+
+
+<main class="main">
+<section class="hero">
+<div class="hero-contenido">
+<span class="hero-line"></span>
+<h2 class="hero-titulo"> DESCUBRE <span> LA MODA QUE HABLA POR TI!</span></h2>
+<p class="hero-subtitulo">𝚃𝚞 𝙼𝚊𝚛𝚌𝚊, 𝚃𝚞 𝙴𝚜𝚝𝚒𝚕𝚘, 𝚃𝚞 𝙸𝚍𝚎𝚗𝚝𝚒𝚍𝚊𝚍</p>
+<a href="#productos" class="hero-btn">Explorar colección</a>
+</div>
+</section>
+
+<section id="productos" class="contenedor-productos"></section>
+</main>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="./js/menu.js"></script>
+<script src="./js/main.js"></script>
+<script src="./js/contador.js"></script>
+
+<footer style="text-align:center;margin:2rem 0;color:#777">
+  <a href="legal.html">Aviso legal</a>
+</footer>
+
+</body>
+</html>
+
+

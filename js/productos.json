@@ -1,0 +1,81 @@
+[
+  {
+    "id": "abrigo-01",
+    "titulo": "Abrigo 01",
+    "precio": 1000,
+    "imagen": "./img/abrigos/01.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-02",
+    "titulo": "Abrigo 02",
+    "precio": 1000,
+    "imagen": "./img/abrigos/02.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-03",
+    "titulo": "Abrigo 03",
+    "precio": 1000,
+    "imagen": "./img/abrigos/03.jpg",
+    "categoria": "abrigos"
+  },
+
+  {
+    "id": "camiseta-01",
+    "titulo": "Camiseta 01",
+    "precio": 1000,
+    "imagen": "./img/camisetas/01.jpg",
+    "categoria": "camisetas"
+  },
+  {
+    "id": "camiseta-02",
+    "titulo": "Camiseta 02",
+    "precio": 1000,
+    "imagen": "./img/camisetas/02.jpg",
+    "categoria": "camisetas"
+  },
+
+  {
+    "id": "pantalon-01",
+    "titulo": "Pantalón 01",
+    "precio": 1000,
+    "imagen": "./img/pantalones/01.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "pantalon-02",
+    "titulo": "Pantalón 02",
+    "precio": 1000,
+    "imagen": "./img/pantalones/02.jpg",
+    "categoria": "pantalones"
+  },
+  {
+  "id": "gorra-01",
+  "titulo": "Gorra DICAM Negra",
+  "precio": 800,
+  "imagen": "./img/gorras/01.jpg",
+  "categoria": "gorras"
+},
+{
+  "id": "gorra-02",
+  "titulo": "Gorra DICAM Negra",
+  "precio": 800,
+  "imagen": "./img/gorras/02.jpg",
+  "categoria": "gorras"
+},
+{
+  "id": "gorra-03",
+  "titulo": "Gorra DICAM Negra",
+  "precio": 800,
+  "imagen": "./img/gorras/03.jpg" ,
+  "categoria": "gorras"
+},
+{
+  "id": "gorra-04",
+  "titulo": "Gorra DICAM Negra",
+  "precio": 800,
+  "imagen": "./img/gorras/04.jpg",
+  "categoria": "gorras"
+}
+]
