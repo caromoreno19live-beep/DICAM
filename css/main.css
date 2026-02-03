@@ -992,9 +992,9 @@ aside {
 
 .checkout-resumen {
     background: #6d5f46;
-    padding: 1.5rem;
-    border-radius: 1rem;
-    box-shadow: 0 10px 30px rgba(0,0,0,.06);
+    padding: 1,5rem;
+    border-radius: 5rem;
+    box-shadow: 0 60px 100px rgba(0,0,0,.06);
 }
 
 .checkout-total {
@@ -1007,4 +1007,27 @@ aside {
   .checkout {
     grid-template-columns: 1fr;
   }
+}
+
+.pedido-final {
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.pedido-final h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.checkout-metodos {
+    display: flex;
+    gap: 1rem;
+    margin-top: .5rem;
+    font-size: .9rem;
+    color: #555;
 }
