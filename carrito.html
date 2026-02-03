@@ -18,25 +18,51 @@
 <main class="main">
 <h2 class="titulo-principal">𝐓𝐔 <span>𝐂𝐀𝐑𝐑𝐈𝐓𝐎</span></h2>
 
-<p id="carrito-vacio" class="carrito-vacio-texto">
-    Aún no has agregado productos a tu carrito.
-    <br>
-    Explora nuestra colección y encuentra tu estilo.
-</p>
+<div id="carrito-vacio" class="carrito-vacio">
+  <h3>Tu carrito está vacío 🛒</h3>
+  <p>Descubre nuestras prendas y arma tu look perfecto.</p>
+  <a href="index.html" class="btn-principal">
+    Ir a la tienda
+  </a>
+</div>
+
 
 
 <div id="carrito-productos" class="disabled"></div>
 
 <div id="carrito-acciones" class="disabled">
-<p>Total: <span id="total">$0</span></p>
-<button id="carrito-acciones-vaciar">Vaciar</button>
-<a href="checkout.html" class="btn-principal" id="btn-finalizar">
-Finalizar compra
-</a>
+
+  <div class="resumen-compra">
+    <div class="linea">
+      <span>Subtotal</span>
+      <span id="subtotal">$0</span>
+    </div>
+
+    <div class="linea">
+      <span>Envío</span>
+      <span id="envio">Gratis</span>
+    </div>
+
+    <div class="linea descuento hidden" id="linea-descuento">
+      <span>Descuento</span>
+      <span id="descuento">-$0</span>
+    </div>
+
+    <hr>
+
+    <div class="linea total">
+      <span>Total</span>
+      <span id="total">$0</span>
+    </div>
+  </div>
+
+  <button id="carrito-acciones-vaciar">Vaciar carrito</button>
+
+  <a href="checkout.html" class="btn-principal" id="btn-finalizar">
+    Finalizar compra
+  </a>
 
 </div>
-
-
 
 <div id="carrito-comprado" class="disabled">
 <p> !Gracias por tu compra!🤗</p>

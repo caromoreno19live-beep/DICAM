@@ -189,12 +189,26 @@ botonVaciar.addEventListener("click", () => {
 // TOTAL
 // =======================
 function actualizarTotal() {
-    const totalCalculado = productosEnCarrito.reduce(
+    const subtotal = productosEnCarrito.reduce(
         (acc, producto) => acc + producto.precio * producto.cantidad,
         0
     );
 
-    contenedorTotal.innerText = `$${totalCalculado}`;
+    let descuento = 0;
+
+    // Descuento automático si supera $200
+    if (subtotal >= 200) {
+        descuento = subtotal * 0.1;
+        document.querySelector("#linea-descuento").classList.remove("hidden");
+        document.querySelector("#descuento").innerText = `-$${descuento.toFixed(0)}`;
+    } else {
+        document.querySelector("#linea-descuento").classList.add("hidden");
+    }
+
+    const totalFinal = subtotal - descuento;
+
+    document.querySelector("#subtotal").innerText = `$${subtotal}`;
+    document.querySelector("#total").innerText = `$${totalFinal.toFixed(0)}`;
 }
 
 // =======================
