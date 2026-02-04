@@ -200,38 +200,40 @@ function actualizarTotal() {
     if (subtotal >= 200) {
         descuento = subtotal * 0.1;
         document.querySelector("#linea-descuento").classList.remove("hidden");
-        document.querySelector("#descuento").innerText = `-$${descuento.toFixed(0)}`;
+        document.querySelector("#descuento").innerText = `-$${descuento.toFixed(2)}`;
     } else {
         document.querySelector("#linea-descuento").classList.add("hidden");
     }
 
     const totalFinal = subtotal - descuento;
 
-    document.querySelector("#subtotal").innerText = `$${subtotal}`;
-    document.querySelector("#total").innerText = `$${totalFinal.toFixed(0)}`;
+    document.querySelector("#subtotal").innerText = `$${subtotal.toFixed(2)}`;
+    document.querySelector("#total").innerText = `$${totalFinal.toFixed(2)}`;
 }
 
 // =======================
 // COMPRAR
 // =======================
-botonComprar.addEventListener("click", () => {
-    Swal.fire({
-        title: "¡Pedido listo!",
-        text: "¿Qué deseas hacer ahora?",
-        icon: "success",
-        showCancelButton: true,
-        confirmButtonText: "Seguir comprando",
-        cancelButtonText: "Ir a checkout",
-        background: "#121212",
-        color: "#fff"
-    }).then(result => {
-        if (result.isConfirmed) {
-            window.location.href = "index.html";
-        } else {
-            window.location.href = "checkout.html";
-        }
+if (botonComprar) {
+    botonComprar.addEventListener("click", () => {
+        Swal.fire({
+            title: "¡Pedido listo!",
+            text: "¿Qué deseas hacer ahora?",
+            icon: "success",
+            showCancelButton: true,
+            confirmButtonText: "Seguir comprando",
+            cancelButtonText: "Ir a checkout",
+            background: "#121212",
+            color: "#fff"
+        }).then(result => {
+            if (result.isConfirmed) {
+                window.location.href = "index.html";
+            } else {
+                window.location.href = "checkout.html";
+            }
+        });
     });
-});
+}
 
 const btnFinalizar = document.querySelector("#btn-finalizar");
 
@@ -241,4 +243,3 @@ btnFinalizar.addEventListener("click", e => {
     alert("Tu carrito está vacío");
   }
 });
-
