@@ -340,9 +340,42 @@ aside {
         margin: 1rem;
         padding: 2rem;
     }
+    .hero {
+        padding: 5rem 2rem;
+    }
+
+    .hero-titulo {
+        font-size: 2.3rem;
+        letter-spacing: 1px;
+    }
+
+    .hero-subtitulo {
+        font-size: 1rem;
+    }
+
 
     .contenedor-productos {
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 480px) {
+    .hero {
+        padding: 4rem 1.5rem;
+        text-align: center;
+    }
+
+    .hero-line {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hero-titulo {
+        font-size: 1.9rem;
+        line-height: 1.2;
+    }
+
+    .hero-subtitulo {
+        margin: 1rem 0 2rem;
     }
 }
 
