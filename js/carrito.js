@@ -157,11 +157,22 @@ function eliminarDelCarrito(e) {
 // ACTUALIZAR CARRITO
 // =======================
 function actualizarCarrito() {
-    localStorage.setItem(
-        "productos-en-carrito",
-        JSON.stringify(productosEnCarrito)
-    );
+    if (productosEnCarrito.length === 0) {
+        localStorage.removeItem("productos-en-carrito");
+    } else {
+        localStorage.setItem(
+            "productos-en-carrito",
+            JSON.stringify(productosEnCarrito)
+        );
+    }
     cargarProductosCarrito();
+    const numerito = document.querySelector("#numerito");
+    if (numerito) {
+        numerito.innerText = productosEnCarrito.reduce(
+            (acc, producto) => acc + producto.cantidad,
+            0
+        );
+    }
 }
 
 // =======================

@@ -55,9 +55,8 @@ localStorage.setItem("pedidos", JSON.stringify(pedidos));
 
 
   window.open(
-    `https://wa.me/573168149809?text=${mensaje}`,
+    `https://wa.me/573026351276?text=${mensaje}`,
     "_blank"
   );
   window.location.href = "pedido-enviado.html";
 });
-
