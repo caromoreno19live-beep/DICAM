@@ -895,7 +895,7 @@ aside {
 
 .resumen-compra hr {
     border: none;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #cab478;
 }
 
 .hidden {
@@ -987,7 +987,7 @@ aside {
     padding: .8rem;
     margin-bottom: 1rem;
     border-radius: .5rem;
-    border: 1px solid #ddd;
+    border: 1px solid #f3d2a4;
 }
 
 .checkout-resumen {
