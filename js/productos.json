@@ -1,5 +1,53 @@
 [
   {
+    "id": "gorras-01",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/01.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-02",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/02.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-03",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/03.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-04",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/04.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-05",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/05.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-06",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/06.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-07",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/07.jpg",
+    "categoria": "gorras"
+  },
+  {
+    "id": "Gorras-08",
+    "titulo": "Gorras",
+    "imagen": "./img/gorras/08.jpg",
+    "categoria": "gorras"
+  },
+  {
     "id": "abrigo-01",
     "titulo": "Colombia",
     "imagen": "./img/abrigos/01.jpg",
@@ -304,13 +352,49 @@
   {
     "id": "Pantalon-25",
     "titulo": "Pantalon",
-    "imagen": "./img/pantalones/01.jpg",
+    "imagen": "./img/pantalones/25.jpg",
     "categoria": "pantalones"
   },
   {
-    "id": "Pantalon-01",
+    "id": "Pantalon-26",
     "titulo": "Pantalon",
-    "imagen": "./img/pantalones/01.jpg",
+    "imagen": "./img/pantalones/26.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-27",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/27.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-28",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/28.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-29",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/29.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-30",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/30.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-31",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/31.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-32",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/32.jpg",
     "categoria": "pantalones"
   },
   {
