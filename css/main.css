@@ -403,7 +403,7 @@ aside {
 
 .cantidad-controles button:hover {
     background-color: var(--clr-gold);
-    color: var(--clr-main);
+    color: var(--clr-beige);
 }
 
 .carrito-producto {
@@ -463,11 +463,9 @@ aside {
     line-height: 1.6;
 }
 
-.whatsapp-float {
+.social-float {
     position: fixed;
-    bottom: 20px;
     right: 20px;
-    background-color: #25D366;
     color: #fff;
     width: 55px;
     height: 55px;
@@ -479,6 +477,11 @@ aside {
     z-index: 1000;
     box-shadow: 0 4px 10px rgba(0,0,0,.25);
     text-decoration: none;
+}
+
+.whatsapp-float {
+    bottom: 20px;
+    background-color: #25D366;
 }
 
 .whatsapp-float:hover {
@@ -486,27 +489,31 @@ aside {
 }
 
 .tiktok-float {
-    position: fixed;
     bottom: 90px;
-    right: 20px;
     background-color: #010101;
-    color: #fff;
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 28px;
-    z-index: 1000;
-    box-shadow: 0 4px 10px rgba(0,0,0,.25);
-    text-decoration: none;
 }
 
 .tiktok-float:hover {
     background-color: #1f1f1f;
 }
 
+.facebook-float {
+    bottom: 160px;
+    background-color: #1877f2;
+}
+
+.facebook-float:hover {
+    background-color: #1464cf;
+}
+
+.instagram-float {
+    bottom: 230px;
+    background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af, #515bd4);
+}
+
+.instagram-float:hover {
+    filter: brightness(.95);
+}
 
 /* BOTÓN PRINCIPAL */
 .btn-principal {
@@ -653,7 +660,7 @@ aside {
   grid-template-columns: 80px 1fr auto auto auto auto;
   align-items: center;
   gap: 1rem;
-  background: rgba(255,255,255,0.03);
+  background: rgba(249, 218, 178, 0.833);
   padding: 1rem;
   border-radius: 12px;
   margin-bottom: 1rem;
@@ -664,13 +671,13 @@ aside {
   height: 90px;
   object-fit: cover;
   border-radius: 10px;
-  border: 1px solid rgba(201,162,77,.4);
+  border: 1px solid rgba(225, 192, 122, 0.4);
   background: #000;
 }
 
 .carrito-producto-titulo h3 {
   font-size: .95rem;
-  color: var(--clr-beige);
+  color: var(--clr-white);
 }
 
 .carrito-producto-precio,
@@ -852,7 +859,7 @@ aside {
 
 .carrito-producto:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    box-shadow: 0 10px 25px rgba(242, 218, 184, 0.722);
 }
 
 @keyframes fadeInUp {
@@ -980,7 +987,7 @@ aside {
 
 .carrito-producto:hover {
     transform: translateY(-4px);
-    box-shadow: 0 12px 25px rgba(0,0,0,0.08);
+    box-shadow: 0 12px 25px rgba(221, 194, 146, 0.882);
 }
 
 .carrito-producto-imagen {
