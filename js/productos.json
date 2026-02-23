@@ -1,70 +1,376 @@
 [
   {
     "id": "abrigo-01",
-    "titulo": "Abrigo 01",
+    "titulo": "Colombia",
     "imagen": "./img/abrigos/01.jpg",
     "categoria": "abrigos"
   },
   {
     "id": "abrigo-02",
-    "titulo": "Abrigo 02",
+    "titulo": "Rosa",
     "imagen": "./img/abrigos/02.jpg",
     "categoria": "abrigos"
   },
   {
     "id": "abrigo-03",
-    "titulo": "Abrigo 03",
+    "titulo": "Colombia white",
     "imagen": "./img/abrigos/03.jpg",
     "categoria": "abrigos"
   },
-
   {
-    "id": "camiseta-01",
-    "titulo": "Camiseta 01",
-    "imagen": "./img/camisetas/01.jpg",
-    "categoria": "camisetas"
+    "id": "abrigo-04",
+    "titulo": "Beige",
+    "imagen": "./img/abrigos/04.jpg",
+    "categoria": "abrigos"
   },
   {
-    "id": "camiseta-02",
-    "titulo": "Camiseta 02",
-    "imagen": "./img/camisetas/02.jpg",
-    "categoria": "camisetas"
+    "id": "abrigo-05",
+    "titulo": "Morado",
+    "imagen": "./img/abrigos/05.jpg",
+    "categoria": "abrigos"
+  },
+{
+    "id": "abrigo-06",
+    "titulo": "Azul marino",
+    "imagen": "./img/abrigos/06.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-07",
+    "titulo": "Abrigo ",
+    "imagen": "./img/abrigos/07.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-08",
+    "titulo": "Abrigo ",
+    "imagen": "./img/abrigos/08.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-09",
+    "titulo": "Abrigo ",
+    "imagen": "./img/abrigos/09.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-10",
+    "titulo": "Abrigo ",
+    "imagen": "./img/abrigos/10.jpg",
+    "categoria": "abrigos"
+  },
+  {
+    "id": "abrigo-11",
+    "titulo": "Abrigo ",
+    "imagen": "./img/abrigos/11.jpg",
+    "categoria": "abrigos"
+  },
+ {
+    "id": "zapato-01",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/01.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-02",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/02.jpg",
+    "categoria": "zapatos"
   },
 
+{
+    "id": "zapato-03",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/03.jpg",
+    "categoria": "zapatos"
+  },
   {
-    "id": "pantalon-01",
-    "titulo": "Pantalón 01",
+    "id": "zapato-04",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/04.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-05",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/05.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-06",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/06.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-07",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/07.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-08",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/08.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-09",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/09.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-10",
+    "titulo": "Zapato",
+ "imagen": "./img/zapatos/10.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-11",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/11.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-12",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/12.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-13",
+    "titulo": "Zapato",
+   "imagen": "./img/zapatos/13.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-14",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/14.jpg",
+    "categoria": "zapatos"
+  },
+  {
+    "id": "zapato-15",
+    "titulo": "Zapato",
+    "imagen": "./img/zapatos/15.jpg",
+    "categoria": "zapatos"
+  },
+
+{
+    "id": "Pantalon-01",
+    "titulo": "Pantalon",
     "imagen": "./img/pantalones/01.jpg",
     "categoria": "pantalones"
   },
   {
-    "id": "pantalon-02",
-    "titulo": "Pantalón 02",
+    "id": "Pantalon-02",
+    "titulo": "Pantalon",
     "imagen": "./img/pantalones/02.jpg",
     "categoria": "pantalones"
   },
   {
-  "id": "gorra-01",
-  "titulo": "Gorra DICAM Negra",
-  "imagen": "./img/gorras/01.jpg",
-  "categoria": "gorras"
-},
-{
-  "id": "gorra-02",
-  "titulo": "Gorra DICAM Morada",
-  "imagen": "./img/gorras/02.jpg",
-  "categoria": "gorras"
-},
-{
-  "id": "gorra-03",
-  "titulo": "Gorra DICAM Rosa",
-  "imagen": "./img/gorras/03.jpg" ,
-  "categoria": "gorras"
-},
-{
-  "id": "gorra-04",
-  "titulo": "Gorra DICAM Negra",
-  "imagen": "./img/gorras/04.jpg",
-  "categoria": "gorras"
-}
+    "id": "Pantalon-03",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/03.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-04",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/04.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-05",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/05.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-06",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/06.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-07",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/07.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-08",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/08.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-09",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/09.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-10",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/10.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-11",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/11.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-12",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/12.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-13",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/13.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-14",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/14.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-15",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/15.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-16",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/16.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-17",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/17.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-18",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/18.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-19",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/19.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-20",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/20.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-21",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/21.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-22",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/22.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-23",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/23.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-24",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/24.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-25",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/01.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Pantalon-01",
+    "titulo": "Pantalon",
+    "imagen": "./img/pantalones/01.jpg",
+    "categoria": "pantalones"
+  },
+  {
+    "id": "Conjuntos-01",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/01.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-02",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/02.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-03",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/03.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-04",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/04.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-05",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/05.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-06",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/06.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-07",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/07.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-08",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/08.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-09",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/09.jpg",
+    "categoria": "conjuntos"
+  },
+  {
+    "id": "Conjuntos-10",
+    "titulo": "Conjuntos",
+    "imagen": "./img/conjuntos/10.jpg",
+    "categoria": "conjuntos"
+  }
 ]

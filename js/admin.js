@@ -15,7 +15,7 @@ function renderProducts(products) {
     document.getElementById("products").innerHTML =
         products.map(p => `
             <p>
-                ${p.titulo} - $${p.precio}
+                ${p.titulo}- $${p.precio}
                 <button onclick="eliminar('${p._id}')">🗑</button>
             </p>
         `).join("");
@@ -27,7 +27,7 @@ document.getElementById("product-form").addEventListener("submit", e => {
 
     const producto = {
         titulo: titulo.value,
-        precio: precio.value,
+         precio: precio.value,
         imagen: imagen.value,
         categoria: categoria.value
     };
