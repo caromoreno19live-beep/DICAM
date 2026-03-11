@@ -1,0 +1,11 @@
+<input type="password" id="pass">
+<button onclick="login()">Entrar</button>
+
+<script>
+function login() {
+  if (document.querySelector("#pass").value === "DICAM2026") {
+    localStorage.setItem("admin-auth", "true");
+    location.href = "admin.html";
+  }
+}
+</script>

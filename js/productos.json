@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "gorras-01",
+    "titulo": "Gorra Negra",
+    "precio": 35000,
+    "imagen": "./img/gorras/01.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-02",
+    "titulo": "Gorra Morada",
+    "precio": 35000,
+    "imagen": "./img/gorras/02.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-03",
+    "titulo": "Gorra Rosa",
+    "precio": 35000,
+    "imagen": "./img/gorras/03.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-04",
+    "titulo": "Gorra Azul",
+    "precio": 35000,
+    "imagen": "./img/gorras/04.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-05",
+    "titulo": "Gorra gris caballo",
+    "precio": 35000,
+    "imagen": "./img/gorras/05.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-06",
+    "titulo": "Gorra Blanca",
+    "precio": 35000,
+    "imagen": "./img/gorras/06.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-07",
+    "titulo": "Gorra Borgoña,",
+    "precio": 35000,
+    "imagen": "./img/gorras/07.jpg",
+    "categoria": "gorras"
+  },
+
+  {
+    "id": "Gorras-08",
+    "titulo": "Gorra Roja",
+    "precio": 35000,
+    "imagen": "./img/gorras/08.jpg",
+    "categoria": "gorras"
+  },
+
+   {
+    "id": "Gorras-09",
+    "titulo": "Gorra Gris toro",
+    "precio": 35000,
+    "imagen": "./img/gorras/09.jpg",
+    "categoria": "gorras"
+  },
+  
+  {
+    "id": "abrigo-01",
+    "titulo": "Colombia",
+    "precio": 55000,
+    "imagen": "./img/abrigos/01.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-02",
+    "titulo": "Chaqueta doble faz Rosa",
+    "precio": 65000,
+    "imagen": "./img/abrigos/02.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+ 
+  {
+    "id": "abrigo-03",
+    "titulo": "Colombia black",
+    "precio": 55000,
+    "imagen": "./img/abrigos/03.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+{
+    "id": "abrigo-04",
+    "titulo": "Chaqueta Cortavientos Beige",
+    "precio": 75000,
+    "imagen": "./img/abrigos/04.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-05",
+    "titulo": "Chaqueta doble faz Morado",
+    "precio": 75000,
+    "imagen": "./img/abrigos/05.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-06",
+    "titulo": "Chaqueta doble faz Verde",
+    "precio": 65000,
+    "imagen": "./img/abrigos/06.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-07",
+    "titulo": "Chaqueta doble faz Rosa salmón",
+    "precio": 65000,
+    "imagen": "./img/abrigos/07.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "abrigo-08",
+    "titulo": "Chaqueta doble faz Negra",
+    "precio": 65000,
+    "imagen": "./img/abrigos/08.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-09",
+    "titulo": "Chaqueta doble faz Azul Claro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/09.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-10",
+    "titulo": "Chaqueta doble faz Blanco",
+    "precio": 65000,
+    "imagen": "./img/abrigos/10.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-11",
+    "titulo": "Chaqueta doble faz Azul Oscuro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/11.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "camisetas-01",
+    "titulo": "Sacred Grief Roja",
+    "precio": 43000,
+    "imagen": "./img/camisetas/01.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-02",
+    "titulo": "Legacy",
+    "precio": 43000,
+    "imagen": "./img/camisetas/02.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-03",
+    "titulo": "Sacred Grief Blanca",
+    "precio": 43000,
+    "imagen": "./img/camisetas/03.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-04",
+    "titulo": "Sacred Grief Negra",
+    "precio": 43000,
+    "imagen": "./img/camisetas/04.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-05",
+    "titulo": "Nike Air Roja",
+    "precio": 60000,
+    "imagen": "./img/camisetas/05.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+{
+    "id": "camisetas-06",
+    "titulo": "Nike Air Marron",
+    "precio": 60000,
+    "imagen": "./img/camisetas/06.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-07",
+    "titulo": "Nike Air Beige Claro",
+    "precio": 60000,
+    "imagen": "./img/camisetas/07.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-08",
+    "titulo": "Nike Air Negra",
+    "precio": 60000,
+    "imagen": "./img/camisetas/08.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-09",
+    "titulo": "Nike Air Blanca",
+    "precio": 60000,
+    "imagen": "./img/camisetas/09.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+{
+    "id": "camisetas-10",
+    "titulo": "Undgld Blanca",
+    "precio": 60000,
+    "imagen": "./img/camisetas/10.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-11",
+    "titulo": "Undgld Azul",
+    "precio": 60000,
+    "imagen": "./img/camisetas/11.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-12",
+    "titulo": "Undgld Marron",
+    "precio": 60000,
+    "imagen": "./img/camisetas/12.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-13",
+    "titulo": "Undgld Beige",
+    "precio": 60000,
+    "imagen": "./img/camisetas/13.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-14",
+    "titulo": "Undgld Negra",
+    "precio": 60000,
+    "imagen": "./img/camisetas/14.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-15",
+    "titulo": "Undgld Verde",
+    "precio": 60000,
+    "imagen": "./img/camisetas/15.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-16",
+    "titulo": "Adidas Verde",
+    "precio": 60000,
+    "imagen": "./img/camisetas/16.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-17",
+    "titulo": "Adidas Beige",
+    "precio": 60000,
+    "imagen": "./img/camisetas/17.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-18",
+    "titulo": "Adidas Negra",
+    "precio": 60000,
+    "imagen": "./img/camisetas/18.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-19",
+    "titulo": "Adidas Roja",
+    "precio": 60000,
+    "imagen": "./img/camisetas/19.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-20",
+    "titulo": "Adidas Blanco",
+    "precio": 60000,
+    "imagen": "./img/camisetas/20.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-21",
+    "titulo": "Adidas Beige Oscuro",
+    "precio": 60000,
+    "imagen": "./img/camisetas/21.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-22",
+    "titulo": "3.6.9 Negra",
+    "precio": 60000,
+    "imagen": "./img/camisetas/22.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-23",
+    "titulo": "3.6.9 Verde",
+    "precio": 60000,
+    "imagen": "./img/camisetas/23.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-24",
+    "titulo": "3.6.9 Beige",
+    "precio": 60000,
+    "imagen": "./img/camisetas/24.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+{
+    "id": "camisetas-25",
+    "titulo": "3.6.9 Blanco",
+    "precio": 60000,
+    "imagen": "./img/camisetas/25.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-26",
+    "titulo": "3.6.9 Beige Claro",
+    "precio": 60000,
+    "imagen": "./img/camisetas/26.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-27",
+    "titulo": "3.6.9 Azul",
+    "precio": 60000,
+    "imagen": "./img/camisetas/27.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-28",
+    "titulo": "Colombia",
+    "precio": 60000,
+    "imagen": "./img/camisetas/28.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "conjuntos-01",
+    "titulo": "Monastery Rojo",
+    "precio": 45000,
+    "imagen": "./img/conjuntos/01.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-02",
+    "titulo": "Monastery Azul",
+    "precio": 45000,
+    "imagen": "./img/conjuntos/02.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-03",
+    "titulo": "Monastery Negra",
+    "precio": 45000,
+    "imagen": "./img/conjuntos/03.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-04",
+    "titulo": "Monastery Lila",
+    "precio": 45000,
+    "imagen": "./img/conjuntos/04.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-05",
+    "titulo": "Adidas Blanco (Tela Fria)",
+    "precio": 65000,
+    "imagen": "./img/conjuntos/05.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-06",
+    "titulo": "Adidas Rojo (Tela Fria)",
+    "precio": 65000,
+    "imagen": "./img/conjuntos/06.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-07",
+    "titulo": "Adidas Negro (Tela Fria)",
+    "precio": 65000,
+    "imagen": "./img/conjuntos/07.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-08",
+    "titulo": "Tela Rit Verde",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/08.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-09",
+    "titulo": "Tela Rit Rojo",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/09.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-10",
+    "titulo": "Tela Rit Morado Claro",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/11.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-11",
+    "titulo": "Tela Rit Rosado",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/11.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-12",
+    "titulo": "Tela Rit Morado",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/12.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-13",
+    "titulo": "Tela Rit Negro",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/13.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-14",
+    "titulo": "Tela Rit Azul",
+    "precio": 54000,
+    "imagen": "./img/conjuntos/14.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-15",
+    "titulo": "Dolce Morado",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/15.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-16",
+    "titulo": "Dolce Marron",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/16.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-17",
+    "titulo": "Dolce Negro",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/17.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-18",
+    "titulo": "Dolce Azul",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/18.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-19",
+    "titulo": "Dolce Rojo",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/19.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-20",
+    "titulo": "Deportivo Moschino Morado",
+    "precio": 48000,
+    "imagen": "./img/conjuntos/20.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-21",
+    "titulo": "Deportivo Moschino Rojo",
+    "precio": 48000,
+    "imagen": "./img/conjuntos/21.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-22",
+    "titulo": "Deportivo Moschino Blanco",
+    "precio": 48000,
+    "imagen": "./img/conjuntos/22.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-23",
+    "titulo": "Deportivo Moschino Azul",
+    "precio": 48000,
+    "imagen": "./img/conjuntos/23.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-24",
+    "titulo": "Adidas Corto Rojo",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/24.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-25",
+    "titulo": "Adidas Corto Negro",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/25.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-26",
+    "titulo": "Adidas Corto Azul",
+    "precio": 44000,
+    "imagen": "./img/conjuntos/26.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-27",
+    "titulo": "Plus Adidas Morado (Tela Fría)",
+    "precio": 64000,
+    "imagen": "./img/conjuntos/27.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-28",
+    "titulo": "Plus Adidas Rojo (Tela Fría)",
+    "precio": 64000,
+    "imagen": "./img/conjuntos/28.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-29",
+    "titulo": "Plus Adidas Negro (Tela Fría)",
+    "precio": 64000,
+    "imagen": "./img/conjuntos/29.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-30",
+    "titulo": "Plus Adidas Verde (Tela Fría)",
+    "precio": 64000,
+    "imagen": "./img/conjuntos/30.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-31",
+    "titulo": "Nike Azul",
+    "precio": 47000,
+    "imagen": "./img/conjuntos/31.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-32",
+    "titulo": "Nike Beige",
+    "precio": 47000,
+    "imagen": "./img/conjuntos/32.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-33",
+    "titulo": "Nike Verde",
+    "precio": 47000,
+    "imagen": "./img/conjuntos/33.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "conjuntos-34",
+    "titulo": "Nike Rosa",
+    "precio": 47000,
+    "imagen": "./img/conjuntos/34.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "conjuntos-35",
+    "titulo": "Nike Marron",
+    "precio": 47000,
+    "imagen": "./img/conjuntos/35.jpg",
+    "categoria": "conjuntos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-01",
+    "titulo": "Adriz Rigido",
+    "precio": 45000,
+    "imagen": "./img/pantalones/01.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-02",
+    "titulo": "Adriz Rigido",
+    "precio": 45000,
+    "imagen": "./img/pantalones/02.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-03",
+    "titulo": "Adriz Rigido",
+    "precio": 45000,
+    "imagen": "./img/pantalones/03.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-04",
+    "titulo": "Dril Licrado Azul Celeste",
+    "precio": 55000,
+    "imagen": "./img/pantalones/04.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-05",
+    "titulo": "Dril Licrado Verde Hoja",
+    "precio": 55000,
+    "imagen": "./img/pantalones/05.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-06",
+    "titulo": "Dril Licrado Ladrillo",
+    "precio": 55000,
+    "imagen": "./img/pantalones/06.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-07",
+    "titulo": "Dril Licrado Ocre",
+    "precio": 55000,
+    "imagen": "./img/pantalones/07.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-08",
+    "titulo": "Dril Licrado Café",
+    "precio": 55000,
+    "imagen": "./img/pantalones/08.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-09",
+    "titulo": "Dril Licrado Blanco",
+    "precio": 55000,
+    "imagen": "./img/pantalones/09.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-10",
+    "titulo": "Dril Licrado gris Claro",
+    "precio": 55000,
+    "imagen": "./img/pantalones/10.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-11",
+    "titulo": "Dril Licrado Arena",
+    "precio": 55000,
+    "imagen": "./img/pantalones/11.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-12",
+    "titulo": "Dril Licrado Verde Jade",
+    "precio": 55000,
+    "imagen": "./img/pantalones/12.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-13",
+    "titulo": "Dril Licrado Tabaco",
+    "precio": 55000,
+    "imagen": "./img/pantalones/13.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+{
+    "id": "pantalones-14",
+    "titulo": "Woker Azul Oscuro",
+    "precio": 55000,
+    "imagen": "./img/pantalones/14.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-15",
+    "titulo": "Woker Beige",
+    "precio": 55000,
+    "imagen": "./img/pantalones/15.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-16",
+    "titulo": "Woker Blanco",
+    "precio": 55000,
+    "imagen": "./img/pantalones/16.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-17",
+    "titulo": "Woker Azul Claro",
+    "precio": 55000,
+    "imagen": "./img/pantalones/17.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "zapatos-01",
+    "titulo": "Sandalia Brillo Gris",
+    "precio": 45000,
+    "imagen": "./img/zapatos/01.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-02",
+    "titulo": "Sandalia Brillo Dorada",
+    "precio": 45000,
+    "imagen": "./img/zapatos/02.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-03",
+    "titulo": "Sandalia Brillo Negra",
+    "precio": 45000,
+    "imagen": "./img/zapatos/03.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-04",
+    "titulo": "Sandalia Prada Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/04.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-05",
+    "titulo": "Sandalia Prada Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/05.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-06",
+    "titulo": "Sandalia Prada Dorada",
+    "precio": 40000,
+    "imagen": "./img/zapatos/06.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-07",
+    "titulo": "Sandalia Prada Cafe",
+    "precio": 40000,
+    "imagen": "./img/zapatos/07.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-08",
+    "titulo": "Sandalia Plana Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/08.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-09",
+    "titulo": "Sandalia Plana Marron",
+    "precio": 40000,
+    "imagen": "./img/zapatos/09.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-10",
+    "titulo": "Sandalia Plana Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/10.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-11",
+    "titulo": "Canoa Cuero Marron",
+    "precio": 75000,
+    "imagen": "./img/zapatos/11.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-12",
+    "titulo": "Canoa Cuero Negra",
+    "precio": 75000,
+    "imagen": "./img/zapatos/12.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-13",
+    "titulo": "Canoa Cuero Marrón oscuro",
+    "precio": 75000,
+    "imagen": "./img/zapatos/13.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-14",
+    "titulo": "Sandalia Tejida Cuadrada",
+    "precio": 55000,
+    "imagen": "./img/zapatos/14.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-15",
+    "titulo": "Sandalia Tejida Punta Cerrada",
+    "precio": 55000,
+    "imagen": "./img/zapatos/15.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-16",
+    "titulo": "Sandalia Tejida Punta",
+    "precio": 55000,
+    "imagen": "./img/zapatos/16.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-17",
+    "titulo": "Sandalia G Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/17.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-18",
+    "titulo": "Sandalia G Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/18.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-19",
+    "titulo": "Sandalia Artesanal",
+    "precio": 40000,
+    "imagen": "./img/zapatos/19.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-20",
+    "titulo": "Sandalia Artesanal Sencilla",
+    "precio": 40000,
+    "imagen": "./img/zapatos/20.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-21",
+    "titulo": "Sandalia Artesanal Cruzada",
+    "precio": 40000,
+    "imagen": "./img/zapatos/21.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-22",
+    "titulo": "Sandalia Negra",
+    "precio": 33000,
+    "imagen": "./img/zapatos/22.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-23",
+    "titulo": "Sandalia Blanca",
+    "precio": 33000,
+    "imagen": "./img/zapatos/23.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-24",
+    "titulo": "Sandalia Dior Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/24.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-25",
+    "titulo": "Sandalia Artesanal Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/25.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-26",
+    "titulo": "Sandalia Dior Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/26.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-27",
+    "titulo": "Sandalia Dior Beige",
+    "precio": 40000,
+    "imagen": "./img/zapatos/27.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-28",
+    "titulo": "Sandalia Clasica",
+    "precio": 40000,
+    "imagen": "./img/zapatos/28.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-29",
+    "titulo": "Sandalia Tory Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/29.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-30",
+    "titulo": "Sandalia Tory Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/30.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-31",
+    "titulo": "Sandalia Tory Marrón Claro",
+    "precio": 40000,
+    "imagen": "./img/zapatos/31.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-32",
+    "titulo": "Sandalia Valentino Blanco",
+    "precio": 40000,
+    "imagen": "./img/zapatos/32.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-33",
+    "titulo": "Sandalia Valentino Marron",
+    "precio": 40000,
+    "imagen": "./img/zapatos/33.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-34",
+    "titulo": "Sandalia Valentino Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/34.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-35",
+    "titulo": "Sandalia LV Verde",
+    "precio": 41000,
+    "imagen": "./img/zapatos/35.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-36",
+    "titulo": "Sandalia LV Marrón",
+    "precio": 41000,
+    "imagen": "./img/zapatos/36.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-37",
+    "titulo": "Sandalia Confort Negra",
+    "precio": 39000,
+    "imagen": "./img/zapatos/37.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-38",
+    "titulo": "Sandalia Confort Marrón",
+    "precio": 39000,
+    "imagen": "./img/zapatos/38.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-39",
+    "titulo": "Sandalia Confort Beige",
+    "precio": 39000,
+    "imagen": "./img/zapatos/39.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-40",
+    "titulo": "Sandalia Confort Marrón Claro",
+    "precio": 39000,
+    "imagen": "./img/zapatos/40.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  }
+
+]
