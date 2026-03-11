@@ -183,8 +183,8 @@ aside {
 }
 
 .numerito {
-    background-color: var(--clr-white);
-    color: var(--clr-main);
+    background-color: var(--clr-main);
+    color: var(--clr-beige);
     padding: .15rem .35rem;
     border-radius: .25rem;
     font-size: .75rem;
@@ -254,7 +254,7 @@ aside {
     margin: 1.5rem 0 2.5rem;
     font-size: 1.15rem;
     letter-spacing: 1px;
-    color: var(--clr-beige);
+    color: var(--clr-main);
     opacity: 0;
     transform: translateY(20px);
     animation: fadeUp 1.2s ease forwards .5s;
