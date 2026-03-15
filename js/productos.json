@@ -172,6 +172,78 @@
   },
 
   {
+    "id": "abrigo-11",
+    "titulo": "Chaqueta doble faz Azul Oscuro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/11.jpg",
+    "categoria": "abrigos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "abrigo-12",
+    "titulo": "Buso Beisbolero Angel ",
+    "precio": 65000,
+    "imagen": "./img/abrigos/12.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-13",
+    "titulo": "Buso Beisbolero Angel Claro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/13.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-13",
+    "titulo": "Buso Beisbolero Angel Claro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/13.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-14",
+    "titulo": "Buso Beisbolero College Beige",
+    "precio": 65000,
+    "imagen": "./img/abrigos/14.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-15",
+    "titulo": "Buso Beisbolero College Azul",
+    "precio": 65000,
+    "imagen": "./img/abrigos/15.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "abrigo-16",
+    "titulo": "Buso Beisbolero College Verde",
+    "precio": 65000,
+    "imagen": "./img/abrigos/16.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-17",
+    "titulo": "Buso Beisbolero College Azul Oscuro",
+    "precio": 65000,
+    "imagen": "./img/abrigos/17.jpg",
+    "categoria": "abrigos",
+    "genero": "hombre"
+  },
+
+  {
     "id": "camisetas-01",
     "titulo": "Sacred Grief Roja",
     "precio": 43000,
@@ -423,6 +495,24 @@
   },
 
   {
+    "id": "camisetas-29",
+    "titulo": "Polo Importado",
+    "precio": 50000,
+    "imagen": "./img/camisetas/29.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-30",
+    "titulo": "Polo de malla normal",
+    "precio": 50000,
+    "imagen": "./img/camisetas/30.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
     "id": "conjuntos-01",
     "titulo": "Monastery Rojo",
     "precio": 45000,
@@ -507,7 +597,7 @@
     "id": "conjuntos-10",
     "titulo": "Tela Rit Morado Claro",
     "precio": 54000,
-    "imagen": "./img/conjuntos/11.jpg",
+    "imagen": "./img/conjuntos/10.jpg",
     "categoria": "conjuntos",
     "genero": "mujer"
   },
@@ -888,6 +978,33 @@
     "imagen": "./img/pantalones/17.jpg",
     "categoria": "pantalones",
     "genero": "hombre"
+  },
+
+   {
+    "id": "pantalones-18",
+    "titulo": "D'SARA Sencillo",
+    "precio": 70000,
+    "imagen": "./img/pantalones/18.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-19",
+    "titulo": "D'SARA Estrella",
+    "precio": 70000,
+    "imagen": "./img/pantalones/19.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "pantalones-20",
+    "titulo": "D'SARA Cuadros",
+    "precio": 70000,
+    "imagen": "./img/pantalones/20.jpg",
+    "categoria": "pantalones",
+    "genero": "mujer"
   },
 
   {
