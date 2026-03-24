@@ -199,15 +199,6 @@
   },
 
   {
-    "id": "abrigo-13",
-    "titulo": "Buso Beisbolero Angel Claro",
-    "precio": 65000,
-    "imagen": "./img/abrigos/13.jpg",
-    "categoria": "abrigos",
-    "genero": "hombre"
-  },
-
-  {
     "id": "abrigo-14",
     "titulo": "Buso Beisbolero College Beige",
     "precio": 65000,
