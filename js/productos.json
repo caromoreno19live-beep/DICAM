@@ -171,14 +171,7 @@
     "genero": "mujer"
   },
 
-  {
-    "id": "abrigo-11",
-    "titulo": "Chaqueta doble faz Azul Oscuro",
-    "precio": 65000,
-    "imagen": "./img/abrigos/11.jpg",
-    "categoria": "abrigos",
-    "genero": "mujer"
-  },
+
 
   {
     "id": "abrigo-12",
@@ -232,6 +225,33 @@
     "imagen": "./img/abrigos/17.jpg",
     "categoria": "abrigos",
     "genero": "hombre"
+  },
+
+  {
+    "id": "abrigo-18",
+    "titulo": "Niño Colombia",
+    "precio": 42000,
+    "imagen": "./img/abrigos/18.jpg",
+    "categoria": "abrigos",
+    "genero": "niño"
+  },
+
+  {
+    "id": "abrigo-19",
+    "titulo": "Chaqueta doble faz Gris (Niño)",
+    "precio": 52000,
+    "imagen": "./img/abrigos/19.jpg",
+    "categoria": "abrigos",
+    "genero": "niño"
+  },
+
+  {
+    "id": "abrigo-20",
+    "titulo": "Chaqueta doble faz Verde Militar (Niño)",
+    "precio": 52000,
+    "imagen": "./img/abrigos/20.jpg",
+    "categoria": "abrigos",
+    "genero": "niño"
   },
 
   {
@@ -499,6 +519,195 @@
     "titulo": "Polo de malla normal",
     "precio": 50000,
     "imagen": "./img/camisetas/30.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-31",
+    "titulo": "Camisa Manga Corta Azul Oscuro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/31.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-32",
+    "titulo": "Camisa Manga Corta Azul Claro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/32.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-33",
+    "titulo": "Camisa Manga Corta Azul Cielo",
+    "precio": 44000,
+    "imagen": "./img/camisetas/33.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-34",
+    "titulo": "Camisa Manga Corta rojo terracota",
+    "precio": 44000,
+    "imagen": "./img/camisetas/34.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-35",
+    "titulo": "Camisa Manga Corta Rosa",
+    "precio": 44000,
+    "imagen": "./img/camisetas/35.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-36",
+    "titulo": "Camisa Manga Corta Amarrillo",
+    "precio": 44000,
+    "imagen": "./img/camisetas/36.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-37",
+    "titulo": "Camisa Manga Corta Verde Claro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/37.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-38",
+    "titulo": "Camisa Manga Corta Negra",
+    "precio": 44000,
+    "imagen": "./img/camisetas/38.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-39",
+    "titulo": "Camisa Manga Corta Vinotinto",
+    "precio": 44000,
+    "imagen": "./img/camisetas/39.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+{
+    "id": "camisetas-40",
+    "titulo": "Camisa Manga Corta Cafe",
+    "precio": 44000,
+    "imagen": "./img/camisetas/40.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-41",
+    "titulo": "Camisa Manga Larga Blanca",
+    "precio": 44000,
+    "imagen": "./img/camisetas/41.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-42",
+    "titulo": "Camisa Manga Larga Negra",
+    "precio": 44000,
+    "imagen": "./img/camisetas/42.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-43",
+    "titulo": "Camisa Manga Larga Azul",
+    "precio": 44000,
+    "imagen": "./img/camisetas/43.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-44",
+    "titulo": "Camisa Manga Larga Beige",
+    "precio": 44000,
+    "imagen": "./img/camisetas/44.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "camisetas-45",
+    "titulo": "Camisa Manga Larga TALLA XXL A LA XXXXL",
+    "precio": 50000,
+    "imagen": "./img/camisetas/45.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "camisetas-46",
+    "titulo": "Camisa Manga Larga Rosa",
+    "precio": 44000,
+    "imagen": "./img/camisetas/46.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+ {
+    "id": "camisetas-47",
+    "titulo": "Camisa Manga Larga Azul Cielo",
+    "precio": 44000,
+    "imagen": "./img/camisetas/47.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "camisetas-48",
+    "titulo": "Camisa Manga Larga Beige Claro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/48.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "camisetas-49",
+    "titulo": "Camisa Manga Larga Verde Oscuro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/49.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "camisetas-50",
+    "titulo": "Camisa Manga Larga Azul Oscuro",
+    "precio": 44000,
+    "imagen": "./img/camisetas/50.jpg",
+    "categoria": "camisetas",
+    "genero": "hombre"
+  },
+
+   {
+    "id": "camisetas-51",
+    "titulo": "Camisa Manga Larga rojo terracota",
+    "precio": 44000,
+    "imagen": "./img/camisetas/51.jpg",
     "categoria": "camisetas",
     "genero": "hombre"
   },
@@ -999,6 +1208,69 @@
   },
 
   {
+    "id": "pantalones-21",
+    "titulo": "ICON Brothers (Azul Clásico)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/21.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-22",
+    "titulo": "Logo Patch (Azul Wash)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/22.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-23",
+    "titulo": "ICON Circular (Gris Carbón)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/23.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-24",
+    "titulo": "Neon Edition (Azul Intenso)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/24.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+{
+    "id": "pantalones-25",
+    "titulo": "Maple Leaf ICON (Gris Humo)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/25.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
+    "id": "pantalones-26",
+    "titulo": "Vertical Heritage (Gris Ceniza)",
+    "precio": 64000,
+    "imagen": "./img/pantalones/26.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+ {
+    "id": "pantalones-27",
+    "titulo": "White Maple (Gris Black-Wash",
+    "precio": 64000,
+    "imagen": "./img/pantalones/27.jpg",
+    "categoria": "pantalones",
+    "genero": "hombre"
+  },
+
+  {
     "id": "zapatos-01",
     "titulo": "Sandalia Brillo Gris",
     "precio": 45000,
@@ -1354,6 +1626,177 @@
     "titulo": "Sandalia Confort Marrón Claro",
     "precio": 39000,
     "imagen": "./img/zapatos/40.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-41",
+    "titulo": "WAYÚU Negra",
+    "precio": 45000,
+    "imagen": "./img/zapatos/41.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-42",
+    "titulo": "WAYÚU Beige con Negro",
+    "precio": 45000,
+    "imagen": "./img/zapatos/42.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-43",
+    "titulo": "WAYÚU Beige",
+    "precio": 45000,
+    "imagen": "./img/zapatos/43.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-44",
+    "titulo": "WAYÚU Blanca con Beige",
+    "precio": 45000,
+    "imagen": "./img/zapatos/44.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-45",
+    "titulo": "Sandalia 3 Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/45.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-46",
+    "titulo": "Sandalia 3 Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/46.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-47",
+    "titulo": "Sandalia 3 Beige",
+    "precio": 40000,
+    "imagen": "./img/zapatos/47.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-48",
+    "titulo": "Sandalia enlazada",
+    "precio": 40000,
+    "imagen": "./img/zapatos/48.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-49",
+    "titulo": "Sandalia Trenzada marron",
+    "precio": 40000,
+    "imagen": "./img/zapatos/49.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-50",
+    "titulo": "Sandalia Trenzada Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/50.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-51",
+    "titulo": "Sandalia V Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/51.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-52",
+    "titulo": "Sandalia V Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/52.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-53",
+    "titulo": "Sandalia Chanel Blanca",
+    "precio": 40000,
+    "imagen": "./img/zapatos/53.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-54",
+    "titulo": "Sandalia V Marron",
+    "precio": 40000,
+    "imagen": "./img/zapatos/54.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-55",
+    "titulo": "Sandalia Chanel Negra",
+    "precio": 40000,
+    "imagen": "./img/zapatos/55.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-56",
+    "titulo": "Sandalia V Oro Rosa",
+    "precio": 40000,
+    "imagen": "./img/zapatos/56.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+{
+    "id": "zapatos-57",
+    "titulo": "Zapatilla Adidas",
+    "precio": 75000,
+    "imagen": "./img/zapatos/57.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-58",
+    "titulo": "Sandalia CANOA Tory",
+    "precio": 65000,
+    "imagen": "./img/zapatos/58.jpg",
+    "categoria": "zapatos",
+    "genero": "mujer"
+  },
+
+  {
+    "id": "zapatos-59",
+    "titulo": "Tacon Tegido",
+    "precio": 90000,
+    "imagen": "./img/zapatos/59.jpg",
     "categoria": "zapatos",
     "genero": "mujer"
   }
